@@ -17,7 +17,6 @@
 .setting-panel > ul {
   display: flex;
   list-style: none;
-
   padding: .5rem;
 }
 
@@ -169,14 +168,5 @@
 
   .setting-panel > ul > li {
     margin: 0;
-  }
-
-  .setting-panel > ul > li > a {
-    text-decoration: none;
-    color: black;
-  }
-
-  .activ-likn {
-    font-weight: bold;
   }
 }
