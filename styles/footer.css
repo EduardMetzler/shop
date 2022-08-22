@@ -1,0 +1,22 @@
+footer {
+  height: 100px;
+  background-color: rgb(24, 39, 51);
+
+  color: azure;
+  position: absolute;
+  width: 100%;
+  padding: 1rem;
+}
+
+i {
+  color: aliceblue;
+  margin: 5px 5px;
+}
+.icons {
+  padding: 1rem;
+}
+
+footer > div {
+  display: flex;
+  justify-content: center;
+}
