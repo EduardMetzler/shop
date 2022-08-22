@@ -63,7 +63,7 @@
   0% {
     border: transparent;
   }
-  0.1% {
+  1% {
     box-shadow: 5px 10px 20px gray;
   }
   99% {
@@ -151,7 +151,7 @@
     height: 100vh;
     position: fixed;
     padding: .5rem 1rem;
-    background-color: rgb(151, 151, 255);
+    background-color: rgb(13, 110, 139);
   }
 
   .setting-panel > h3 {
